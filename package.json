@@ -1,0 +1,15 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "Creating a weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonu",
+  "license": "ISC",
+  "dependencies": {
+    "fahrenheit-to-celsius": "^1.0.0",
+    "requests": "^0.3.0"
+  }
+}
